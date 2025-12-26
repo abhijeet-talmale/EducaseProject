@@ -1,0 +1,10 @@
+.custom-outline {
+  color: #6C25FF;
+  border-color: #6C25FF;
+}
+
+.custom-outline:hover {
+  background-color: #6C25FF;   /* your custom hover background */
+  border-color: #6C25FF;
+  color: #fff;
+}
